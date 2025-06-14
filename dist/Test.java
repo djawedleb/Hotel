@@ -1,0 +1,1 @@
+import javax.swing.*; public class Test { public static void main(String[] args) { JFrame f = new JFrame("Test"); f.setSize(200,200); f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); f.setVisible(true); } }

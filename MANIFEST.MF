@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: hotel.ui.ControlPanel
+Class-Path: lib/sqlite-jdbc-3.8.10.1.jar lib/joda-time-2.8.2.jar lib/jcalendar-1.4.jar lib/rs2xml.jar lib/swingx-all-1.6.4.jar 
